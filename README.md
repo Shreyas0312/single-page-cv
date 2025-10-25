@@ -3,6 +3,8 @@
 
 Minimal single-page CV / resume template built with HTML and CSS. Designed for easy customization and printing.
 
+Project Page URL: https://roadmap.sh/projects/single-page-cv
+
 ## Features
 - Simple, print-friendly layout
 - Top dash accent and large name header
