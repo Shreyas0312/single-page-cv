@@ -10,11 +10,7 @@ Minimal single-page CV / resume template built with HTML and CSS. Designed for e
 - Single file HTML + CSS for easy editing
 
 ## Local preview
-1. Open `index.html` in your browser (double-click or right-click → Open with).
-2. Or serve locally from the project folder (Windows PowerShell):
-   - Install http-server if needed: `npm install -g http-server`
-   - Start server: `http-server .`
-   - Open `http://localhost:8080` in your browser
+1. Open https://shreyas0312.github.io/single-page-cv/
 
 ## Styles workflow
 This project uses plain CSS (`styles.css`). If you prefer SCSS:
