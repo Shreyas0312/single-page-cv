@@ -9,7 +9,7 @@ Minimal single-page CV / resume template built with HTML and CSS. Designed for e
 - Sections for skills, education, experience and links
 - Single file HTML + CSS for easy editing
 
-## Local preview
+## Project URL
 1. Open https://shreyas0312.github.io/single-page-cv/
 
 ## Styles workflow
